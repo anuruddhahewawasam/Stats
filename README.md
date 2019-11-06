@@ -1,0 +1,2 @@
+# Stats
+Statistical Inference Assignment
