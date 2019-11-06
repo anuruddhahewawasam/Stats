@@ -12,4 +12,6 @@ We conducted a Public Opinion Poll on upcoming presidential election. We used go
 
 We asked participants to rate the candidates based on their Vision, Policies and plans.
 
+Finally, we asked them to made their final opinion on who will win and who do they vote.
+
 
